@@ -1,0 +1,10 @@
+static:
+    script: /testers/cs2/project04/static/test
+A:
+    script: /testers/cs2/project04/suite/test
+B:
+    script: /testers/cs2/project04/suite/test
+C:
+    script: /testers/cs2/project04/suite/test
+D:
+    script: /testers/cs2/project04/suite/test

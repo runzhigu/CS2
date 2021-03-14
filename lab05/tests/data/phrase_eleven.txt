@@ -1,0 +1,6 @@
+[one, plus, twelve]
+[one, twelve, plus]
+[plus, one, twelve]
+[plus, twelve, one]
+[twelve, one, plus]
+[twelve, plus, one]

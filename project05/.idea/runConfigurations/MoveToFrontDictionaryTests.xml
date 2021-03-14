@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MoveToFrontDictionaryTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="project05-markov" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="edu.caltech.cs2.datastructures.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="edu.caltech.cs2.datastructures" />
+    <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.datastructures.MoveToFrontDictionaryTests" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

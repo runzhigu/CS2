@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="C Tests - Graph Tests" type="JUnit" factoryName="JUnit">
+    <module name="project07-beavermaps" />
+    <option name="PACKAGE_NAME" value="edu.caltech.cs2.project07" />
+    <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.project07.GraphTests" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

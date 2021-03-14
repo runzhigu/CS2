@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BeaverMaps" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.project07.BeaverMaps" />
+    <module name="project07-beavermaps" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

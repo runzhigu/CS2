@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MinFourHeapTests" type="JUnit" factoryName="JUnit">
+    <module name="project06-beaverchat" />
+    <option name="PACKAGE_NAME" value="edu.caltech.cs2.datastructures" />
+    <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.datastructures.MinFourHeapTests" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

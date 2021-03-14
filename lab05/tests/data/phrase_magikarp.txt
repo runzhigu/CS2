@@ -1,0 +1,4 @@
+[karma, pig]
+[magi, park]
+[park, magi]
+[pig, karma]

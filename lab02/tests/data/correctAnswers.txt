@@ -1,0 +1,32 @@
+Welcome to our neat nature walk, a neature walk if you will. We are going to see so many cool things on our walk! Lets go! (To answer the prompts, type the possibilities in the brackets to go to that choice)
+>> [go]
+The Caltech Mallard Duck likes to travel in packs. That's pretty neat.
+How many ducks do you see?
+-.- -.- -.-
+How about now?
+-.-
+How about now?
+-.-
+You sure did look at all those chickens! That's pretty neat!
+Now that that's over, do you want to look at neat rocks or neat flowers?
+>> [flowers] [rocks]
+Woah! Look at the flowers! There's all kinds of colors! That's pretty neat! I think I see some animals up ahead! Let's go check it out.
+>> [go]
+As part of your Caltech Neature Camp experience, you need to be able to identify all kinds of neat animals that can be found around campus. Here are a few:
+- These neat felines can often be found outside of Page House
+- This neat animal can often be found inside Adam's office!
+- Type their names into the terminal (separated by ',')
+Woah! There are even more neat animals here!
+- These bushy-tailed friends are everywhere in and around the trees on campus
+- These reptilians get their very own pond!
+- Type their names into the terminal (separated by ',')
+Well, there's nothing left here! press enter to move.
+Wow! That was pretty neat! We got to see so many neat animals! Would you like to get a drink of water at Millikan? Or maybe some food at Chandler?
+>> [millikan] [chandler]
+Oooh that water is very refreshingly neat! Woah! I think I see an animal up ahead!
+>> [go]
+You've spotted a neat animal. Its front and back look identical! Let's give it a neat new name that reflects how neat it is! (make it a palindrome)
+That's a pretty neat name!!eman taen ytterp a s'tahT
+Looks like we've gotten to the end of our neat journey through the neature. Let's go back to the Olive Walk!
+>> [go]
+Go to bed, frosh!!! Ditch Day is Tomorrow!!!!!!!!

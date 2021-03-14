@@ -1,0 +1,4 @@
+static:
+    script: /testers/cs2/lab04/static/test
+A:
+    script: /testers/cs2/lab04/suite/test
