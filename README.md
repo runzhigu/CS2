@@ -1,6 +1,6 @@
 # CS2 Introduction to Programming Methods
 ### CS 2 Projects & Labs in Java
-### ::star:: [https://debuggi.ng/21wi/](Course Website) ::star::
+### ::star:: ::dancer:: [Course Website](https://debuggi.ng/21wi/) ::dancer:: ::star::
 ### Caltech Honor Code: No member of the Caltech community shall take unfair advantage of any other member of the Caltech community.
 #### Note that all of the test, interface, and front-end code were written by CS 2 staff members, and the directory structure was created by them as well. My work falls mainly under the src code.
 
