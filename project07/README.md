@@ -1,3 +1,5 @@
+Collaborated with Christian Zapata-Sanin on this project.
+
 ## To Deploy Locally:
 
 1. Clone this repository.
